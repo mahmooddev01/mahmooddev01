@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on **open source projects**, especially around **health tech**, **edtech**, or **library systems**.
 - 📫 Reach me via:  
   📧 Email: `mahmood@example.com`  
-  💼 LinkedIn: [linkedin.com/in/mahmooddev]([https://linkedin.com/in/mahmooddev](https://www.linkedin.com/in/mamadou-diang-diallo-7b20a6250))  
+  💼 LinkedIn: [linkedin.com/in/mahmooddev]([[https://linkedin.com/in/mahmooddev](https://www.linkedin.com/in/mamadou-diang-diallo-7b20a6250)](https://www.linkedin.com/in/mamadou-diang-diallo-7b20a6250))  
   🧪 Portfolio: [mahmooddev.com](https://mahmooddev.com)
 
 ## 🛠️ Tech Stack
