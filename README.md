@@ -11,7 +11,7 @@
 - 📫 Reach me via:  
   📧 Email: `mahmood@example.com`  
   💼 LinkedIn: [linkedin.com/in/mahmooddev]([[https://linkedin.com/in/mahmooddev](https://www.linkedin.com/in/mamadou-diang-diallo-7b20a6250)](https://www.linkedin.com/in/mamadou-diang-diallo-7b20a6250))  
-  🧪 Portfolio: [mahmooddev.com](https://mahmooddev.com)
+  <!--- 🧪 Portfolio: [mahmooddev.com](https://mahmooddev.com) --->
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +24,7 @@
 He / Him
 
 ## ⚡ Fun fact
-I love turning coffee ☕ into code 🧠 — and I'm obsessed with building efficient admin dashboards!
+I love turning coffee ☕ into code 🧠 — and I'm obsessed with building websites and apps!
 
 ---
 
