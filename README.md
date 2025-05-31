@@ -12,7 +12,7 @@
   💼 LinkedIn: [linkedin.com/in/mamadou_diang_diallo]([[https://linkedin.com/in/mahmooddev](https://www.linkedin.com/in/mamadou-diang-diallo-7b20a6250)](https://www.linkedin.com/in/mamadou-diang-diallo-7b20a6250))  
   <!--- 🧪 Portfolio: [mahmooddev.com](https://mahmooddev.com) --->
 
-### Pronouns
+### 👤 Pronouns
 He / Him
 
 ### ⚡ Fun fact
