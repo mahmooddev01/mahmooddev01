@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning **Angular**, **Java**, and improving my **Python OOP** skills.
 - 💞️ I’m looking to collaborate on **open source projects**, especially around **health tech**, **edtech**, or **library systems**.
 - 📫 Reach me via:  
-  📧 Email: `mahmood@example.com`  
-  💼 LinkedIn: [linkedin.com/in/mahmooddev]([[https://linkedin.com/in/mahmooddev](https://www.linkedin.com/in/mamadou-diang-diallo-7b20a6250)](https://www.linkedin.com/in/mamadou-diang-diallo-7b20a6250))  
+  📧 Email: `mddiallo0101@gmail.com`  
+  💼 LinkedIn: [linkedin.com/in/mamadou_diang_diallo]([[https://linkedin.com/in/mahmooddev](https://www.linkedin.com/in/mamadou-diang-diallo-7b20a6250)](https://www.linkedin.com/in/mamadou-diang-diallo-7b20a6250))  
   <!--- 🧪 Portfolio: [mahmooddev.com](https://mahmooddev.com) --->
 
 ## Pronouns
