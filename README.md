@@ -1,9 +1,8 @@
-# 👋 Hello, I'm Mahmood! (a.k.a. @mahmooddev01)
+## 👋 Hello, I'm Mahmood !
 
 👨‍💻 Passionate about building digital solutions that solve real-world problems.  
-🎯 Focused on **web & mobile development**, especially in **Symfony**, **JavaScript**, and **Tailwind CSS**.  
 
-## 🔍 About Me
+### 🔍 About Me
 
 - 👀 I’m interested in **Agriculture**, **Pharmacy**, and **Health** technologies.
 - 🌱 I’m currently learning **Angular**, **Java**, and improving my **Python OOP** skills.
@@ -13,8 +12,8 @@
   💼 LinkedIn: [linkedin.com/in/mamadou_diang_diallo]([[https://linkedin.com/in/mahmooddev](https://www.linkedin.com/in/mamadou-diang-diallo-7b20a6250)](https://www.linkedin.com/in/mamadou-diang-diallo-7b20a6250))  
   <!--- 🧪 Portfolio: [mahmooddev.com](https://mahmooddev.com) --->
 
-## Pronouns
+### Pronouns
 He / Him
 
-## ⚡ Fun fact
+### ⚡ Fun fact
 I love turning coffee ☕ into code 🧠 — and I'm obsessed with building websites and apps!
