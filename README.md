@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on **open source projects**, especially around **health tech**, **edtech**, or **library systems**.
 - 📫 Reach me via:  
   📧 Email: `mddiallo0101@gmail.com`  
-  💼 LinkedIn: `[linkedin.com/in/mamadou_diang_diallo]`(https://www.linkedin.com/in/mamadou-diang-diallo-7b20a6250)  
+  💼 LinkedIn: `[linkedin.com/in/mamadou_diang_diallo](https://www.linkedin.com/in/mamadou-diang-diallo-7b20a6250)`
   <!--- 🧪 Portfolio: [mahmooddev.com](https://mahmooddev.com) --->
 
 ### 👤 Pronouns
